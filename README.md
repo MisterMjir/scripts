@@ -12,3 +12,7 @@ Example
 #Example
 $ compilec bonanzo -lSDL2
 ```
+Note: I now use the CMake build system, it is better than this, I don't use this anymore
+
+## Fixres
+I have a 2nd monitor from an obscure brand and the screen is always way to small. This script automates fixing it and setting its resolution to something actually usable.
