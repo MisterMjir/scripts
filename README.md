@@ -1,5 +1,5 @@
-# Shell
-All the shells that I have made.
+# Scripts
+All the scripts that I have made.
 
 I do not take responsibility for any damage that occurs. You can only trust it's safe by looking at the code and that I use these
 
