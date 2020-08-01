@@ -16,3 +16,7 @@ Note: I now use the CMake build system, it is better than this, I don't use this
 
 ## Fixres
 I have a 2nd monitor from an obscure brand and the screen is always way to small. This script automates fixing it and setting its resolution to something actually usable.
+
+## Image Remove Min (imgrmmin)
+If you use a site like [compressjpeg](https://compressjpeg.com/) all your file names will have a ```-min``` appended to them and this script will remove
+all ```-min```s in the current directory.
